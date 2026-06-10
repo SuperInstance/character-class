@@ -41,13 +41,13 @@ Six stats, grown through experience:
 
 After enough encounters, the stat distribution reveals the class. High perception alone = Scout. Perception + Charisma = Jazz Musician. Three stats high = Polymath. Four = Avatar.
 
-## Synergy
+## integration
 
 Cross-archetype teams work better than same-archetype teams:
 
 ```rust
-// Scout (Physical) + Scholar (Mental) = 0.9 synergy (complementary)
-// Scout (Physical) + Speedster (Physical) = 0.4 synergy (redundant)
+// Scout (Physical) + Scholar (Mental) = 0.9 integration (complementary)
+// Scout (Physical) + Speedster (Physical) = 0.4 integration (redundant)
 ```
 
 A Jazz Musician and an Artificer synergize better than two Jazz Musicians. Diversity beats homogeneity. Same as real teams.
